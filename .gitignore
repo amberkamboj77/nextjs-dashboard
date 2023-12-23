@@ -15,6 +15,9 @@
 # production
 /build
 
+# Code
+/.devcontainer/
+
 # misc
 .DS_Store
 *.pem
